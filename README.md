@@ -9,7 +9,10 @@
 
 Install dependencies:
 - npm install
+
 To Run Code:\n
+
 - npm start
-To Create Exe:\n
+
+To Create Exe:
 - npm run make
