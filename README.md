@@ -10,7 +10,7 @@
 Install dependencies:
 - npm install
 
-To Run Code:\n
+To Run Code:
 
 - npm start
 
